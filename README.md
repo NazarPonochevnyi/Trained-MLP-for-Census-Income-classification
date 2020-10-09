@@ -112,9 +112,11 @@ RF Test accuracy: 0.745
 MLP Test accuracy: 0.815
 ```
 
-4. Watch Confusion matrix and Feature importances
+4. Watch Confusion matrix
 
 ![confusion_matrix](./imgs/confusion_matrix.png)
+
+5. Watch Feature importances
 
 ![feature_imps](./imgs/feature_imps.png)
 
