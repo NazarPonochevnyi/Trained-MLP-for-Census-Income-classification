@@ -4,7 +4,7 @@
 
 ## Get started
 
-The `predict_mlp.py` script will be soon, but now you can watch the demo using [notebook.](https://github.com/NazarPonochevnyi/Trained-MLP-for-Census-Income-classification/blob/main/Census_Income_notebook.ipynb)
+The `predict_mlp.py` script will be here soon, but now you can watch the demo using [notebook.](https://github.com/NazarPonochevnyi/Trained-MLP-for-Census-Income-classification/blob/main/Census_Income_notebook.ipynb)
 
 ## Dataset
 
@@ -47,13 +47,13 @@ Now, let's see more about 'Age' variable:
 
 ![age_deps](./imgs/age_deps.png)
 
-And last, but not least is 3D graph:
+And last, but not least is 3D graph 😉
 
 ![3d_plot](./imgs/3d_plot.png)
 
 ## Classification
 
-OK, let's start to build models: 
+OK, let's start to build models!
 
 1. First of all divide data
 
