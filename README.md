@@ -1,5 +1,10 @@
 # Trained MLP for Census Income classification
 
+![](https://img.shields.io/badge/-status:wip-5319e7.svg)
+![](https://img.shields.io/github/license/NazarPonochevnyi/Trained-MLP-for-Census-Income-classification)
+![](https://img.shields.io/github/languages/code-size/NazarPonochevnyi/Trained-MLP-for-Census-Income-classification)
+![](https://img.shields.io/github/last-commit/NazarPonochevnyi/Trained-MLP-for-Census-Income-classification)
+
 💲 Predict whether income exceeds $50K/yr based on census data.
 
 ## Get started
